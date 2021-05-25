@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on real life projects on ML, DL or maybe aything else if I can help.
 - 🤔 I’m looking for help with DSA.
 - 💬 Talk to me about ideas, technology, projects, cool stuff like travelling, music.
-- ⚡ Fun fact: I am good at playing badminton and I love cricket
+- ⚡ Fun fact: I am good at playing badminton, I love cycling also used to play cricket.
 
 ## TECH STACKS
  <img src = 'https://img.shields.io/badge/sklearn-sklearn-blue'/> <img src = 'https://img.shields.io/badge/-flask-lightgrey'/>
