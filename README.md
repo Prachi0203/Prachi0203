@@ -45,4 +45,10 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+<a href="mailto:prachinindal2925@gmail.com">
+  <img
+    alt="GMail"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
 
