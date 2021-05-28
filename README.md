@@ -23,7 +23,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Prachi0203&show_icons=true&theme=radical&count_private=true"/>
-
+<img src = 'https://komarev.com/ghpvc/?username=Prachi0203&color=green'/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi0203&layout=compact"/>
 
 ## 📫 How to reach me:
