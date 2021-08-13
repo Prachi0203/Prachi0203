@@ -1,8 +1,9 @@
-### Hi there 👋 I am a Developer and interested in learning everything!
+### Hi there 👋 I am a Developer and love exploring things!
 
 
-
-
+</br>
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+  
 - 🔭 I’m currently trying my hands-on Deep Learning proects.
 - 🌱 I’m interested in learning Flutter
 - 👯 I’m looking to collaborate on real life projects on ML, DL or maybe aything else if I can help.
